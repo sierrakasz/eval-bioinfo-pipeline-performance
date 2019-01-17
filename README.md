@@ -1,2 +1,2 @@
-# postmortem-analysis
-Files for human postmortem analysis code
+# postmortem-microbiome-analysis
+Files for human postmortem microbiome analysis code
