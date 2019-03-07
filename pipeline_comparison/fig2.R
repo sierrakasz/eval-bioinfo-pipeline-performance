@@ -37,7 +37,7 @@ regroup_physeq_object <-function(table) {
 physeq_all <- regroup_physeq_object(tax_group)
 
 #import metadata and combine into one phyloseq object
-metadata=(read.csv("Metadata/HPMMMeta_r_merge.csv",header=TRUE))
+metadata=(read.csv("HPMMMeta_r_merge.csv",header=TRUE))
 sampdat=sample_data(metadata)
 sample_names(sampdat)=metadata$SampleID
 physeq=merge_phyloseq(physeq_all, sampdat)
