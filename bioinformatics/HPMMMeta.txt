@@ -1,0 +1,337 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Country	Pack_ID	Sample_Area	Sex	Race	Age	Event_Location	Season	Broad_PMI	Estimated_PMI	BMI	Weight_Status	MoD	Description
+WCME_10	GTAACGAGTACGAGAC	N	USA	2014-S2	Mouth	Female	White	42	Indoors	Spring	Less48	25-48	45.8	Morbid Obesity	Natural	WCME_10
+WCME_1004	ACTACGACTAGCGAGT	N	USA	2015-S594	Mouth	Female	Black	39	Hospital	Winter	Less48	Less24	34.7	Obese	Accident	WCME_1004
+WCME_1007	ACTACGACCGTGAGTG	N	USA	2015-S219	Mouth	Female	White	54	Indoors	Spring	Less48	Less24	32.8	Obese	Natural	WCME_1007
+WCME_1008	ACTACGACGGATATCT	N	USA	2015-S527	Mouth	Female	Black	42	Hospital	Winter	Less48	Less24	45.7	Morbid Obesity	Natural	WCME_1008
+WCME_1010	GTCTGCTAATCGTACG	N	USA	2015-S442	Mouth	Female	White	56	Outdoors	Winter	Less48	Less24	29.7	Overweight	Homicide	WCME_1010
+WCME_1012	GTCTGCTATAGCGAGT	N	USA	2015-S595	Mouth	Female	Black	36	Indoors	Winter	Less48	25-48	31.7	Obese	Accident	WCME_1012
+WCME_1024	GTCTATGAGGATATCT	N	USA	2015-S150	Mouth	Female	White	47	Indoors	Spring	Less48	Less24	30.7	Obese	Natural	WCME_1024
+WCME_104	TAGCAGCTGATCGTGT	N	USA	2014-S21	Mouth	Male	Black	50	Indoors	Spring	Less48	25-48	19.1	Normal Weight	Natural	WCME_104
+WCME_1040	CGAGAGTTGATCGTGT	N	USA	2015-S157	Mouth	Male	White	59	Indoors	Summer	More48	Great73	31.7	Obese	Natural	WCME_1040
+WCME_1045	GACATAGTTACGAGAC	N	USA	2015-S464	Mouth	Female	White	38	Vehicular	Autumn	Less48	Less24	67.7	Super Obese	Accident	WCME_1045
+WCME_1050	ACGCTACTCTACTATA	N	USA	2015-S31	Mouth	Female	White	61	Hospital	Spring	Less48	25-48	19.8	Normal Weight	Accident	WCME_1050
+WCME_1056	ACGCTACTGATCGTGT	N	USA	2015-S185	Mouth	Female	Black	52	Indoors	Spring	Less48	25-48	37	Severe Obesity	Natural	WCME_1056
+WCME_1061	ACTCACTGTACGAGAC	N	USA	2015-S587	Mouth	Female	Black	56	Hospital	Winter	Less48	Less24	16.5	Underweight	Natural	WCME_1061
+WCME_1067	TGAGTACGCGTTACTA	N	USA	2015-S460	Mouth	Male	White	48	Indoors	Winter	Less48	Less24	24.7	Normal Weight	Homicide	WCME_1067
+WCME_1069	TGAGTACGTACGAGAC	N	USA	2015-S3	Mouth	Female	White	58	Indoors	Spring	Less48	Less24	26.5	Overweight	Suicide	WCME_1069
+WCME_1071	TGAGTACGTCGACGAG	N	USA	2015-S443	Mouth	Male	White	46	Indoors	Winter	Less48	Less24	34.7	Obese	Suicide	WCME_1071
+WCME_1075	CTGCGTAGCGTTACTA	N	USA	2015-S479	Mouth	Female	Black	42	Hospital	Autumn	Less48	Less24	24.5	Normal Weight	Accident	WCME_1075
+WCME_1083	TAGTCTCCCGTTACTA	N	USA	2015-S165	Mouth	Female	Black	53	Indoors	Spring	Less48	Less24	25.3	Overweight	Natural	WCME_1083
+WCME_1096	CGAGCGACGATCGTGT	N	USA	2015-S156	Mouth	Female	White	41	Indoors	Summer	Less48	25-48	18.6	Normal Weight	Suicide	WCME_1096
+WCME_1099	ACTACGACCGTTACTA	N	USA	2015-S555	Mouth	Male	White	57	Indoors	Winter	Less48	Less24	23	Normal Weight	Suicide	WCME_1099
+WCME_1100	ACTACGACAGAGTCAC	N	USA	2015-S68	Mouth	Female	Black	48	Hospital	Spring	Less48	Less24	25.4	Overweight	Accident	WCME_1100
+WCME_111	GTAACGAGCGTGAGTG	N	USA	2014-S22	Mouth	Male	White	55	Indoors	Spring	Less48	25-48	26.9	Overweight	Natural	WCME_111
+WCME_1113	GTCTGCTAGTCAGATA	N	USA	2015-S136	Mouth	Male	White	29	Indoors	Spring	Less48	25-48	19.9	Normal Weight	Suicide	WCME_1113
+WCME_1120	GTCTATGAGATCGTGT	N	USA	2015-S487	Mouth	Male	White	63	Indoors	Summer	More48	49-72	24.4	Normal Weight	Suicide	WCME_1120
+WCME_1124	TATAGCGAAGAGTCAC	N	USA	2015-S475	Mouth	Female	Black	62	Vehicular	Winter	Less48	Less24	22.9	Normal Weight	Homicide	WCME_1124
+WCME_1132	CTCGACTTTAGCGAGT	N	USA	2015-S523	Mouth	Female	Black	35	Indoors	Winter	Less48	Less24	35.8	Severe Obesity	Accident	WCME_1132
+WCME_1134	CTCGACTTTCATCGAG	N	USA	2015-S598	Mouth	Female	White	21	Vehicular	Winter	Less48	Less24	25.9	Overweight	Suicide	WCME_1134
+WCME_1136	CTCGACTTGGATATCT	N	USA	2015-S437	Mouth	Male	Black	48	Hospital	Winter	Less48	Less24	12.7	Underweight	Homicide	WCME_1136
+WCME_1137	CTCGACTTGACACCGT	N	USA	2015-S553	Mouth	Male	Black	60	Indoors	Winter	More48	49-72	26.6	Overweight	Natural	WCME_1137
+WCME_1152	TAGCAGCTGGATATCT	N	USA	2015-S340	Mouth	Male	White	55	Outdoors	Autumn	Less48	Less24	30.7	Obese	Suicide	WCME_1152
+WCME_1154	TCTCTATGATCGTACG	N	USA	2015-S426	Mouth	Female	Black	59	Hospital	Winter	Less48	Less24	40.4	Morbid Obesity	Natural	WCME_1154
+WCME_1159	TCTCTATGCGTGAGTG	N	USA	2015-S335	Mouth	Female	Black	44	Indoors	Winter	Less48	25-48	27.9	Overweight	Accident	WCME_1159
+WCME_1160	TCTCTATGGGATATCT	N	USA	2015-S577	Mouth	Male	Black	37	Hospital	Winter	Less48	Less24	28.4	Overweight	Homicide	WCME_1160
+WCME_1162	GATCTACGATCGTACG	N	USA	2015-S8	Mouth	Female	White	55	Indoors	Spring	Less48	25-48	14	Underweight	Suicide	WCME_1162
+WCME_1165	GATCTACGCTGCGTGT	N	USA	2015-S396	Mouth	Male	Black	27	Outdoors	Autumn	Less48	Less24	21.4	Normal Weight	Homicide	WCME_1165
+WCME_1169	GATCTACGGACACCGT	N	USA	2015-S596	Mouth	Male	Black	26	Outdoors	Winter	Less48	Less24	36	Severe Obesity	Homicide	WCME_1169
+WCME_1173	GTAACGAGCTGCGTGT	N	USA	2015-S370	Mouth	Female	Black	46	Indoors	Summer	Less48	25-48	25.5	Overweight	Accident	WCME_1173
+WCME_1174	GTAACGAGTCATCGAG	N	USA	2015-S217	Mouth	Female	Black	40	Outdoors	Spring	Less48	25-48	27.4	Overweight	Homicide	WCME_1174
+WCME_1176	GTAACGAGGGATATCT	N	USA	2015-S410	Mouth	Female	Black	54	Indoors	Winter	Less48	Less24	26.6	Overweight	Homicide	WCME_1176
+WCME_118	CTCGACTTTACGAGAC	N	USA	2014-S24	Mouth	Male	Black	32	Outdoors	Spring	Less48	25-48	22.6	Normal Weight	Homicide	WCME_118
+WCME_1184	ACGTGCGCGGATATCT	N	USA	2015-S378	Mouth	Male	White	64	Indoors	Summer	Less48	Less24	29	Overweight	Suicide	WCME_1184
+WCME_1196	GCGTATACTAGCGAGT	N	USA	2015-S55	Mouth	Female	White	79	Indoors	Spring	Less48	25-48	32.3	Obese	Suicide	WCME_1196
+WCME_1197	GCGTATACCTGCGTGT	N	USA	2015-S496	Mouth	Male	White	56	Indoors	Summer	Less48	Less24	36.9	Severe Obesity	Accident	WCME_1197
+WCME_1203	TGCTCGTAACTATCTG	N	USA	2015-S582	Mouth	Female	Black	43	Hospital	Winter	Less48	Less24	19	Normal Weight	Homicide	WCME_1203
+WCME_1224	CGTAGCGAGGATATCT	N	USA	2015-S175	Mouth	Male	Black	18	Indoors	Summer	Less48	25-48	28.2	Overweight	Homicide	WCME_1224
+WCME_1227	CTCGACTTCGTTACTA	N	USA	2015-S350	Mouth	Female	White	54	Indoors	Winter	Less48	Less24	31.6	Obese	Natural	WCME_1227
+WCME_1228	CTCGACTTAGAGTCAC	N	USA	2015-S419	Mouth	Female	Black	26	Vehicular	Autumn	Less48	Less24	30.3	Obese	Accident	WCME_1228
+WCME_123	GCGTATACGACACCGT	N	USA	2014-S25	Mouth	Female	White	58	Indoors	Spring	Less48	25-48	18.5	Normal Weight	Natural	WCME_123
+WCME_1239	CGAAGTATTCGACGAG	N	USA	2015-S568	Mouth	Male	White	53	Indoors	Winter	Less48	25-48	25.1	Overweight	Natural	WCME_1239
+WCME_1241	CGAAGTATGTCAGATA	N	USA	2015-S375	Mouth	Female	White	23	Indoors	Summer	Less48	Less24	23	Normal Weight	Accident	WCME_1241
+WCME_1247	TAGCAGCTTCGACGAG	N	USA	2015-S4	Mouth	Male	Black	27	Vehicular	Spring	Less48	25-48	26.5	Overweight	Homicide	WCME_1247
+WCME_1265	GATCTACGGTCAGATA	N	USA	2015-S494	Mouth	Male	White	52	Indoors	Summer	Less48	25-48	33.1	Obese	Natural	WCME_1265
+WCME_1268	GTAACGAGAGAGTCAC	N	USA	2015-S425	Mouth	Male	White	36	Indoors	Autumn	Less48	Less24	31.5	Obese	Suicide	WCME_1268
+WCME_1270	GTAACGAGACGTCTCG	N	USA	2015-S559	Mouth	Male	Black	33	Hospital	Winter	Less48	Less24	40.3	Morbid Obesity	Homicide	WCME_1270
+WCME_1275	ACGTGCGCCGTTACTA	N	USA	2015-S201	Mouth	Female	White	42	Indoors	Spring	Less48	Less24	22.5	Normal Weight	Suicide	WCME_1275
+WCME_1281	ACGTGCGCGTCAGATA	N	USA	2015-S211	Mouth	Male	Black	62	Outdoors	Spring	Less48	25-48	24.8	Normal Weight	Suicide	WCME_1281
+WCME_1289	ATAGTACCGTCAGATA	N	USA	2015-S215	Mouth	Female	Black	48	Indoors	Spring	Less48	Less24	24.4	Normal Weight	Accident	WCME_1289
+WCME_129	ATAGTACCCGTGAGTG	N	USA	2014-S27	Mouth	Female	White	71	Indoors	Spring	Less48	Less24	unknown	Unknown	Natural	WCME_129
+WCME_1297	GCGTATACGTCAGATA	N	USA	2015-S570	Mouth	Female	Black	20	Outdoors	Winter	Less48	Less24	26.1	Overweight	Accident	WCME_1297
+WCME_1317	CGTAGCGATACGAGAC	N	USA	2015-S484	Mouth	Female	Black	43	Indoors	Summer	Less48	Less24	26.4	Overweight	Homicide	WCME_1317
+WCME_1320	CGTAGCGAGATCGTGT	N	USA	2015-S186	Mouth	Female	White	46	Indoors	Spring	Less48	Less24	31.2	Obese	Natural	WCME_1320
+WCME_135	ACGTGCGCACGTCTCG	N	USA	2014-S28	Mouth	Female	Black	71	Outdoors	Spring	Less48	Less24	30	Obese	Accident	WCME_135
+WCME_164	ACGCTACTTCATCGAG	N	USA	2014-S36	Mouth	Female	White	40	Indoors	Spring	Less48	Less24	20.9	Normal Weight	Accident	WCME_164
+WCME_176	ACGCTACTGGATATCT	N	USA	2014-S38	Mouth	Male	Black	61	Indoors	Spring	More48	Great73	17.2	Underweight	Natural	WCME_176
+WCME_188	CGAGCGACCTGCGTGT	N	USA	2014-S40	Mouth	Female	White	44	Indoors	Spring	Less48	Less24	44.1	Morbid Obesity	Natural	WCME_188
+WCME_202	ACGCTACTGACACCGT	N	USA	2014-S42	Mouth	Male	White	34	Indoors	Spring	Less48	25-48	36.4	Severe Obesity	Accident	WCME_202
+WCME_208	ACTCACTGCTGCGTGT	N	USA	2014-S43	Mouth	Female	White	20	Indoors	Spring	Less48	25-48	25.2	Overweight	Accident	WCME_208
+WCME_215	CTGCGTAGATCGTACG	N	USA	2014-S44	Mouth	Male	White	53	Indoors	Spring	More48	49-72	35	Severe Obesity	Accident	WCME_215
+WCME_222	GTCTATGAGGATATCT	N	USA	2014-S45	Mouth	Male	Black	41	Indoors	Spring	Less48	25-48	47.1	Morbid Obesity	Natural	WCME_222
+WCME_23	CGTAGCGAGGATATCT	N	USA	2014-S5	Mouth	Male	Black	22	Outdoors	Spring	Less48	25-48	23.2	Normal Weight	Homicide	WCME_23
+WCME_234	CGAAGTATAGAGTCAC	N	USA	2014-S57	Mouth	Female	Black	50	Indoors	Spring	More48	49-72	24.8	Normal Weight	Accident	WCME_234
+WCME_238	CGAAGTATGATCGTGT	N	USA	2014-S56	Mouth	Female	Black	60	Indoors	Spring	Less48	25-48	21.5	Normal Weight	Natural	WCME_238
+WCME_241	TAGCAGCTCGTTACTA	N	USA	2014-S55	Mouth	Male	White	48	Indoors	Spring	Less48	25-48	29	Overweight	Natural	WCME_241
+WCME_251	TCTCTATGTACGAGAC	N	USA	2014-S46	Mouth	Female	Black	66	Indoors	Spring	Less48	Less24	23.5	Normal Weight	Natural	WCME_251
+WCME_255	TCTCTATGGTCAGATA	N	USA	2014-S52	Mouth	Male	Black	62	Indoors	Spring	More48	Great73	23.6	Normal Weight	Natural	WCME_255
+WCME_28	GATCTACGCTACTATA	N	USA	2014-S6	Mouth	Male	White	30	Indoors	Spring	Less48	25-48	32.4	Obese	Suicide	WCME_28
+WCME_287	ACGTGCGCACGTCTCG	N	USA	2014-S59	Mouth	Female	White	58	Indoors	Spring	Less48	Less24	29.8	Overweight	Suicide	WCME_287
+WCME_293	ATAGTACCCTACTATA	N	USA	2014-S60	Mouth	Female	White	50	Indoors	Spring	Less48	Less24	22	Normal Weight	Accident	WCME_293
+WCME_305	AACGCTGATACGAGAC	N	USA	2014-S71	Mouth	Female	Black	19	Indoors	Summer	Less48	25-48	22.3	Normal Weight	Accident	WCME_305
+WCME_311	CTCGACTTATCGTACG	N	USA	2014-S74	Mouth	Male	Black	53	Outdoors	Summer	Less48	25-48	32.4	Obese	Accident	WCME_311
+WCME_317	ACGTGCGCCGTTACTA	N	USA	2014-S75	Mouth	Male	Black	65	Outdoors	Summer	Less48	Less24	22.2	Normal Weight	Homicide	WCME_317
+WCME_323	ACGTGCGCCGTGAGTG	N	USA	2014-S76	Mouth	Male	Black	68	Outdoors	Summer	Less48	Less24	32	Obese	Natural	WCME_323
+WCME_336	TGCTCGTACTACTATA	N	USA	2014-S79	Mouth	Male	Black	32	Vehicular	Summer	Less48	Less24	28.9	Overweight	Homicide	WCME_336
+WCME_342	GTAACGAGGATCGTGT	N	USA	2014-S80	Mouth	Female	White	50	Indoors	Summer	Less48	25-48	15.8	Underweight	Natural	WCME_342
+WCME_348	CGAGAGTTGGATATCT	N	USA	2014-S82	Mouth	Female	White	42	Indoors	Summer	Less48	25-48	15.6	Underweight	Suicide	WCME_348
+WCME_35	CGTAGCGAATCGTACG	N	USA	2014-S7	Mouth	Male	White	41	Indoors	Spring	Less48	25-48	27	Overweight	Accident	WCME_35
+WCME_355	TGAGTACGCTGCGTGT	N	USA	2014-S83	Mouth	Male	White	24	Outdoors	Summer	Less48	25-48	26.7	Overweight	Accident	WCME_355
+WCME_362	ACGCTACTATCGTACG	N	USA	2014-S84	Mouth	Male	Black	41	Indoors	Summer	Less48	25-48	37.2	Severe Obesity	Accident	WCME_362
+WCME_376	GATCTACGGACACCGT	N	USA	2014-S85	Mouth	Male	Black	24	Outdoors	Summer	Less48	Less24	28.1	Overweight	Homicide	WCME_376
+WCME_383	GATCTACGACTATCTG	N	USA	2014-S88	Mouth	Male	Black	43	Indoors	Summer	Less48	Less24	25	Overweight	Homicide	WCME_383
+WCME_389	TCTCTATGCTGCGTGT	N	USA	2014-S91	Mouth	Male	White	31	Indoors	Summer	Less48	25-48	28.5	Overweight	Accident	WCME_389
+WCME_396	ACGTGCGCACTATCTG	N	USA	2014-S92	Mouth	Male	White	40	Indoors	Summer	Less48	25-48	39.1	Severe Obesity	Accident	WCME_396
+WCME_4	TGCTCGTAGGATATCT	N	USA	2014-S1	Mouth	Female	White	70	Indoors	Spring	Less48	25-48	14.9	Underweight	Natural	WCME_4
+WCME_403	CGTAGCGACTGCGTGT	N	USA	2014-S106	Mouth	Female	White	24	Indoors	Summer	Less48	25-48	33.1	Obese	Accident	WCME_403
+WCME_410	CTCGACTTCTACTATA	N	USA	2014-S110	Mouth	Female	White	61	Indoors	Summer	Less48	25-48	40.2	Morbid Obesity	Accident	WCME_410
+WCME_416	CTCGACTTACGTCTCG	N	USA	2014-S111	Mouth	Female	Black	24	Outdoors	Summer	Less48	Less24	unknown	Unknown	Homicide	WCME_416
+WCME_42	AACGCTGAACTATCTG	N	USA	2014-S8	Mouth	Female	White	40	Indoors	Spring	Less48	Less24	51.6	Super Obese	Accident	WCME_42
+WCME_422	TCTCTATGACTATCTG	N	USA	2014-S114	Mouth	Male	Black	61	Indoors	Summer	More48	Great73	19.2	Normal Weight	Accident	WCME_422
+WCME_428	ACGTGCGCCGTGAGTG	N	USA	2014-S116	Mouth	Female	Black	50	Indoors	Summer	More48	Great73	14.8	Underweight	Natural	WCME_428
+WCME_435	TAGCAGCTTAGCGAGT	N	USA	2014-S118	Mouth	Female	White	28	Indoors	Summer	Less48	Less24	24	Normal Weight	Accident	WCME_435
+WCME_443	TAGCAGCTACGTCTCG	N	USA	2014-S119	Mouth	Female	White	42	Indoors	Summer	Less48	25-48	35.3	Severe Obesity	Natural	WCME_443
+WCME_457	TCTCTATGACGTCTCG	N	USA	2014-S132	Mouth	Male	White	65	Indoors	Summer	Less48	25-48	27.6	Overweight	Accident	WCME_457
+WCME_464	ATAGTACCTCATCGAG	N	USA	2014-S140	Mouth	Male	Black	55	Indoors	Summer	Less48	25-48	18.4	Underweight	Natural	WCME_464
+WCME_470	GATCTACGCTGCGTGT	N	USA	2014-S141	Mouth	Female	White	27	Indoors	Summer	Less48	25-48	26	Overweight	Accident	WCME_470
+WCME_477	ACGTGCGCATCGTACG	N	USA	2014-S143	Mouth	Male	Black	66	Vehicular	Summer	Less48	25-48	23.5	Normal Weight	Accident	WCME_477
+WCME_484	CTCGACTTCTGCGTGT	N	USA	2014-S146	Mouth	Male	Black	45	Indoors	Summer	Less48	Less24	48.1	Morbid Obesity	Natural	WCME_484
+WCME_49	AACGCTGAGGATATCT	N	USA	2014-S9	Mouth	Female	White	49	Outdoors	Spring	Less48	25-48	26.8	Overweight	Homicide	WCME_49
+WCME_491	GTAACGAGTCATCGAG	N	USA	2014-S147	Mouth	Male	White	33	Indoors	Summer	Less48	25-48	27.5	Overweight	Accident	WCME_491
+WCME_497	ACGTGCGCGACACCGT	N	USA	2014-S300	Mouth	Female	Black	30	Indoors	Autumn	Less48	25-48	27.6	Overweight	Homicide	WCME_497
+WCME_503	ACGTGCGCGTCAGATA	N	USA	2014-S347	Mouth	Male	White	40	Indoors	Autumn	More48	Great73	24.7	Normal Weight	Accident	WCME_503
+WCME_510	ATAGTACCACGTCTCG	N	USA	2014-S348	Mouth	Female	Black	57	Indoors	Autumn	Less48	25-48	22.1	Normal Weight	Natural	WCME_510
+WCME_514	ATAGTACCGATCGTGT	N	USA	2015-S1	Mouth	Male	Black	22	Outdoors	Spring	More48	Great73	18.1	Underweight	Homicide	WCME_514
+WCME_522	TGCTCGTATACGAGAC	N	USA	2015-S13	Mouth	Male	White	36	Indoors	Winter	Less48	25-48	20.5	Normal Weight	Accident	WCME_522
+WCME_530	TGCTCGTACGTTACTA	N	USA	2015-S14	Mouth	Female	White	27	Indoors	Winter	More48	49-72	20.4	Normal Weight	Accident	WCME_530
+WCME_538	TGCTCGTAGTCAGATA	N	USA	2015-S15	Mouth	Male	White	49	Indoors	Winter	Less48	Less24	39.6	Severe Obesity	Natural	WCME_538
+WCME_546	AACGCTGAACGTCTCG	N	USA	2015-S17	Mouth	Male	White	20	Indoors	Spring	Less48	Less24	35.9	Severe Obesity	Accident	WCME_546
+WCME_554	GTAACGAGCGTGAGTG	N	USA	2015-S20	Mouth	Male	White	34	Indoors	Spring	Less48	25-48	44.9	Morbid Obesity	Accident	WCME_554
+WCME_56	AACGCTGATCATCGAG	N	USA	2014-S10	Mouth	Male	Black	51	Indoors	Spring	Less48	25-48	27.5	Overweight	Natural	WCME_56
+WCME_561	TAGCAGCTAGAGTCAC	N	USA	2015-S23	Mouth	Male	White	33	Indoors	Spring	Less48	Less24	27.3	Overweight	Accident	WCME_561
+WCME_569	ATAGTACCTAGCGAGT	N	USA	2015-S25	Mouth	Male	Black	21	Vehicular	Spring	Less48	Less24	29.8	Overweight	Homicide	WCME_569
+WCME_576	TAGCAGCTTCGACGAG	N	USA	2015-S27	Mouth	Male	Black	80	Hospital	Spring	Less48	25-48	29.2	Overweight	Natural	WCME_576
+WCME_599	CGAAGTATTAGCGAGT	N	USA	2015-S34	Mouth	Female	Black	44	Hospital	Spring	More48	49-72	30.6	Obese	Accident	WCME_599
+WCME_613	CGTAGCGATCGACGAG	N	USA	2015-S39	Mouth	Female	White	31	Hospital	Spring	Less48	25-48	30.1	Obese	Accident	WCME_613
+WCME_62	TCTCTATGTCATCGAG	N	USA	2014-S12	Mouth	Male	White	42	Indoors	Spring	Less48	Less24	41.1	Morbid Obesity	Accident	WCME_62
+WCME_639	TCTCTATGTCATCGAG	N	USA	2015-S44	Mouth	Male	White	31	Indoors	Spring	Less48	25-48	31	Obese	Accident	WCME_639
+WCME_647	CGAAGTATCGTGAGTG	N	USA	2015-S48	Mouth	Male	Black	38	Indoors	Spring	Less48	Less24	17.7	Underweight	Accident	WCME_647
+WCME_655	GATCTACGGACACCGT	N	USA	2015-S49	Mouth	Female	Black	47	Outdoors	Spring	Less48	Less24	31.6	Obese	Accident	WCME_655
+WCME_663	GATCTACGTACGAGAC	N	USA	2015-S51	Mouth	Male	Black	25	Indoors	Spring	Less48	Less24	35.2	Severe Obesity	Homicide	WCME_663
+WCME_671	AACGCTGATAGCGAGT	N	USA	2015-S57	Mouth	Male	Black	49	Indoors	Spring	Less48	25-48	33.8	Obese	Accident	WCME_671
+WCME_678	GCGTATACCGTGAGTG	N	USA	2015-S58	Mouth	Female	White	49	Indoors	Spring	Less48	25-48	53.7	Super Obese	Accident	WCME_678
+WCME_686	CGAAGTATATCGTACG	N	USA	2015-S63	Mouth	Male	White	42	Indoors	Spring	More48	49-72	29.4	Overweight	Accident	WCME_686
+WCME_69	CGAAGTATTAGCGAGT	N	USA	2014-S13	Mouth	Male	White	43	Indoors	Spring	Less48	Less24	27.4	Overweight	Natural	WCME_69
+WCME_694	CGTAGCGAGACACCGT	N	USA	2015-S65	Mouth	Male	White	62	Hospital	Spring	Less48	25-48	32.1	Obese	Natural	WCME_694
+WCME_702	TGCTCGTAACTATCTG	N	USA	2015-S67	Mouth	Male	Black	26	Hospital	Spring	Less48	25-48	27	Overweight	Homicide	WCME_702
+WCME_709	AACGCTGAATCGTACG	N	USA	2015-S70	Mouth	Male	Black	88	Indoors	Spring	Less48	25-48	16.8	Underweight	Natural	WCME_709
+WCME_717	ACGTGCGCATCGTACG	N	USA	2015-S72	Mouth	Male	White	79	Hospital	Winter	Less48	25-48	25.2	Overweight	Accident	WCME_717
+WCME_725	GTAACGAGTAGCGAGT	N	USA	2015-S74	Mouth	Male	Black	34	Hospital	Winter	Less48	25-48	33.5	Obese	Homicide	WCME_725
+WCME_741	GCGTATACGGATATCT	N	USA	2015-S78	Mouth	Female	White	44	Indoors	Spring	More48	49-72	32.1	Obese	Accident	WCME_741
+WCME_748	TAGTCTCCCTGCGTGT	N	USA	2015-S79	Mouth	Male	White	28	Indoors	Spring	Less48	Less24	21.7	Normal Weight	Accident	WCME_748
+WCME_756	CTGCGTAGGACACCGT	N	USA	2015-S82	Mouth	Male	White	49	Indoors	Spring	More48	Great73	30.8	Obese	Accident	WCME_756
+WCME_764	GTCTGCTACTGCGTGT	N	USA	2015-S86	Mouth	Male	Black	55	Vehicular	Spring	More48	49-72	24.7	Normal Weight	Natural	WCME_764
+WCME_772	CTGCGTAGCGTGAGTG	N	USA	2015-S88	Mouth	Female	White	24	Indoors	Spring	Less48	Less24	43.9	Morbid Obesity	Accident	WCME_772
+WCME_779	GACATAGTGATCGTGT	N	USA	2015-S89	Mouth	Male	Black	70	Outdoors	Spring	Less48	Less24	21.5	Normal Weight	Accident	WCME_779
+WCME_787	ACGCTACTGACACCGT	N	USA	2015-S92	Mouth	Female	Black	24	Hospital	Spring	Less48	Less24	27	Overweight	Natural	WCME_787
+WCME_795	CGAGAGTTCTACTATA	N	USA	2015-S94	Mouth	Male	Black	53	Indoors	Spring	Less48	Less24	27.5	Overweight	Accident	WCME_795
+WCME_803	GACATAGTATCGTACG	N	USA	2015-S96	Mouth	Male	White	46	Indoors	Spring	Less48	Less24	27.5	Overweight	Accident	WCME_803
+WCME_811	GTCTATGATAGCGAGT	N	USA	2015-S97	Mouth	Female	White	36	Indoors	Spring	Less48	25-48	25.8	Overweight	Accident	WCME_811
+WCME_819	TATAGCGAATCGTACG	N	USA	2015-S98	Mouth	Male	White	39	Indoors	Spring	Less48	25-48	28.7	Overweight	Accident	WCME_819
+WCME_827	TATAGCGACTGCGTGT	N	USA	2015-S99	Mouth	Female	Black	61	Indoors	Spring	More48	Great73	44.3	Morbid Obesity	Natural	WCME_827
+WCME_834	CGAGCGACATCGTACG	N	USA	2015-S141	Mouth	Male	Black	30	Indoors	Spring	Less48	25-48	21.6	Normal Weight	Homicide	WCME_834
+WCME_842	CTGCGTAGTAGCGAGT	N	USA	2015-S176	Mouth	Male	Black	43	Indoors	Spring	More48	49-72	33.4	Obese	Homicide	WCME_842
+WCME_857	CTGCGTAGTCGACGAG	N	USA	2015-S193	Mouth	Male	Black	26	Hospital	Spring	Less48	25-48	22.7	Normal Weight	Homicide	WCME_857
+WCME_864	TAGTCTCCCGTGAGTG	N	USA	2015-S194	Mouth	Male	Black	23	Hospital	Spring	Less48	25-48	30	Obese	Accident	WCME_864
+WCME_872	ACGCTACTGATCGTGT	N	USA	2015-S196	Mouth	Female	Black	27	Vehicular	Spring	Less48	Less24	unknown	Unknown	Accident	WCME_872
+WCME_880	GTCTATGAGTCAGATA	N	USA	2015-S197	Mouth	Male	Black	20	Hospital	Spring	Less48	25-48	43.9	Morbid Obesity	Homicide	WCME_880
+WCME_888	ACTACGACCGTTACTA	N	USA	2015-S203	Mouth	Male	Black	24	Vehicular	Spring	Less48	Less24	unknown	Unknown	Homicide	WCME_888
+WCME_89	AACGCTGAGATCGTGT	N	USA	2014-S19	Mouth	Male	Black	28	Outdoors	Spring	Less48	Less24	24	Normal Weight	Homicide	WCME_89
+WCME_896	GACATAGTTCATCGAG	N	USA	2015-S204	Mouth	Female	White	35	Indoors	Spring	Less48	Less24	36.6	Severe Obesity	Accident	WCME_896
+WCME_903	CTGCGTAGCTACTATA	N	USA	2015-S205	Mouth	Female	White	31	Indoors	Spring	Less48	25-48	20.2	Normal Weight	Homicide	WCME_903
+WCME_911	TGAGTACGTCATCGAG	N	USA	2015-S209	Mouth	Male	White	20	Indoors	Spring	Less48	Less24	21.9	Normal Weight	Accident	WCME_911
+WCME_919	CGAGCGACGGATATCT	N	USA	2015-S213	Mouth	Male	White	36	Indoors	Spring	Less48	Less24	31	Obese	Accident	WCME_919
+WCME_929	ACTCACTGATCGTACG	N	USA	2014-S94	Mouth	Female	Black	26	Indoors	Summer	Less48	25-48	35.6	Severe Obesity	Suicide	WCME_929
+WCME_936	CGAGAGTTGACACCGT	N	USA	2014-S121	Mouth	Male	White	34	Indoors	Summer	Less48	Less24	26.5	Overweight	Suicide	WCME_936
+WCME_942	CGAGAGTTTCATCGAG	N	USA	2015-S64	Mouth	Female	White	45	Indoors	Spring	More48	49-72	31.8	Obese	Suicide	WCME_942
+WCME_954	ACGCTACTATCGTACG	N	USA	2015-S579	Mouth	Male	White	31	Hospital	Winter	Less48	Less24	33.5	Obese	Suicide	WCME_954
+WCME_956	ACGCTACTTAGCGAGT	N	USA	2015-S180	Mouth	Male	White	60	Outdoors	Spring	Less48	Less24	29	Overweight	Homicide	WCME_956
+WCME_958	ACGCTACTTCATCGAG	N	USA	2015-S574	Mouth	Male	White	19	Outdoors	Winter	Less48	Less24	23.1	Normal Weight	Suicide	WCME_958
+WCME_963	ACTCACTGACTATCTG	N	USA	2015-S514	Mouth	Female	White	18	Hospital	Winter	Less48	Less24	22	Normal Weight	Accident	WCME_963
+WCME_965	ACTCACTGCTGCGTGT	N	USA	2015-S47	Mouth	Female	Black	39	Indoors	Spring	Less48	25-48	39.8	Severe Obesity	Suicide	WCME_965
+WCME_968	ACTCACTGGGATATCT	N	USA	2015-S512	Mouth	Male	White	51	Indoors	Winter	Less48	Less24	24.6	Normal Weight	Natural	WCME_968
+WCME_973	TGAGTACGCTGCGTGT	N	USA	2015-S158	Mouth	Male	Black	54	Indoors	Summer	Less48	25-48	28.1	Overweight	Natural	WCME_973
+WCME_999	CGAGCGACCGTGAGTG	N	USA	2015-S184	Mouth	Male	Black	53	Indoors	Spring	More48	49-72	27.8	Overweight	Natural	WCME_999
+WCME_1	GCGTATACATCGTACG	N	USA	2014-S1	Rectum	Female	White	70	Indoors	Spring	Less48	25-48	14.9	Underweight	Natural	WCME_1
+WCME_100	ATAGTACCCTGCGTGT	N	USA	2014-S21	Rectum	Male	Black	50	Indoors	Spring	Less48	25-48	19.1	Normal Weight	Natural	WCME_100
+WCME_1013	GTCTGCTACTGCGTGT	N	USA	2015-S201	Rectum	Female	White	42	Indoors	Spring	Less48	Less24	22.5	Normal Weight	Suicide	WCME_1013
+WCME_1015	GTCTGCTACGTGAGTG	N	USA	2015-S514	Rectum	Female	White	18	Hospital	Winter	Less48	Less24	22	Normal Weight	Accident	WCME_1015
+WCME_1016	GTCTGCTAGGATATCT	N	USA	2015-S553	Rectum	Male	Black	60	Indoors	Winter	More48	49-72	26.6	Overweight	Natural	WCME_1016
+WCME_1018	GTCTATGAATCGTACG	N	USA	2015-S156	Rectum	Female	White	41	Indoors	Summer	Less48	25-48	18.6	Normal Weight	Suicide	WCME_1018
+WCME_1028	TATAGCGATAGCGAGT	N	USA	2015-S184	Rectum	Male	Black	53	Indoors	Spring	More48	49-72	27.8	Overweight	Natural	WCME_1028
+WCME_1030	TATAGCGATCATCGAG	N	USA	2015-S579	Rectum	Male	White	31	Hospital	Winter	Less48	Less24	33.5	Obese	Suicide	WCME_1030
+WCME_1055	ACGCTACTTCGACGAG	N	USA	2015-S68	Rectum	Female	Black	48	Hospital	Spring	Less48	Less24	25.4	Overweight	Accident	WCME_1055
+WCME_1057	ACGCTACTGTCAGATA	N	USA	2015-S568	Rectum	Male	White	53	Indoors	Winter	Less48	25-48	25.1	Overweight	Natural	WCME_1057
+WCME_1062	ACTCACTGACGTCTCG	N	USA	2015-S496	Rectum	Male	White	56	Indoors	Summer	Less48	Less24	36.9	Severe Obesity	Accident	WCME_1062
+WCME_107	GATCTACGCGTTACTA	N	USA	2014-S22	Rectum	Male	White	55	Indoors	Spring	Less48	25-48	26.9	Overweight	Natural	WCME_107
+WCME_1070	TGAGTACGACGTCTCG	N	USA	2015-S47	Rectum	Female	Black	39	Indoors	Spring	Less48	25-48	39.8	Severe Obesity	Suicide	WCME_1070
+WCME_1074	CTGCGTAGCTACTATA	N	USA	2015-S180	Rectum	Male	White	60	Outdoors	Spring	Less48	Less24	29	Overweight	Homicide	WCME_1074
+WCME_1079	CTGCGTAGTCGACGAG	N	USA	2015-S598	Rectum	Female	White	21	Vehicular	Winter	Less48	Less24	25.9	Overweight	Suicide	WCME_1079
+WCME_1082	TAGTCTCCCTACTATA	N	USA	2015-S157	Rectum	Male	White	59	Indoors	Summer	More48	Great73	31.7	Obese	Natural	WCME_1082
+WCME_1084	TAGTCTCCAGAGTCAC	N	USA	2015-S425	Rectum	Male	White	36	Indoors	Autumn	Less48	Less24	31.5	Obese	Suicide	WCME_1084
+WCME_1086	TAGTCTCCACGTCTCG	N	USA	2015-S378	Rectum	Male	White	64	Indoors	Summer	Less48	Less24	29	Overweight	Suicide	WCME_1086
+WCME_1093	CGAGCGACTACGAGAC	N	USA	2015-S417	Rectum	Female	Black	47	Indoors	Autumn	Less48	Less24	26.6	Overweight	Natural	WCME_1093
+WCME_1097	CGAGCGACGTCAGATA	N	USA	2015-S217	Rectum	Female	Black	40	Outdoors	Spring	Less48	25-48	27.4	Overweight	Homicide	WCME_1097
+WCME_1105	ACTACGACGTCAGATA	N	USA	2015-S335	Rectum	Female	Black	44	Indoors	Winter	Less48	25-48	27.9	Overweight	Accident	WCME_1105
+WCME_1106	GTCTGCTACTACTATA	N	USA	2015-S484	Rectum	Female	Black	43	Indoors	Summer	Less48	Less24	26.4	Overweight	Homicide	WCME_1106
+WCME_1114	GTCTATGACTACTATA	N	USA	2015-S175	Rectum	Male	Black	18	Indoors	Summer	Less48	25-48	28.2	Overweight	Homicide	WCME_1114
+WCME_1116	GTCTATGAAGAGTCAC	N	USA	2015-S186	Rectum	Female	White	46	Indoors	Spring	Less48	Less24	31.2	Obese	Natural	WCME_1116
+WCME_1123	TATAGCGACGTTACTA	N	USA	2015-S185	Rectum	Female	Black	52	Indoors	Spring	Less48	25-48	37	Severe Obesity	Natural	WCME_1123
+WCME_1127	TATAGCGATCGACGAG	N	USA	2015-S460	Rectum	Male	White	48	Indoors	Winter	Less48	Less24	24.7	Normal Weight	Homicide	WCME_1127
+WCME_114	GTAACGAGACTATCTG	N	USA	2014-S24	Rectum	Male	Black	32	Outdoors	Spring	Less48	25-48	22.6	Normal Weight	Homicide	WCME_114
+WCME_1141	CGAAGTATCTGCGTGT	N	USA	2015-S165	Rectum	Female	Black	53	Indoors	Spring	Less48	Less24	25.3	Overweight	Natural	WCME_1141
+WCME_1142	CGAAGTATTCATCGAG	N	USA	2015-S527	Rectum	Female	Black	42	Hospital	Winter	Less48	Less24	45.7	Morbid Obesity	Natural	WCME_1142
+WCME_1158	TCTCTATGTCATCGAG	N	USA	2015-S158	Rectum	Male	Black	54	Indoors	Summer	Less48	25-48	28.1	Overweight	Natural	WCME_1158
+WCME_1164	GATCTACGTAGCGAGT	N	USA	2015-S211	Rectum	Male	Black	62	Outdoors	Spring	Less48	25-48	24.8	Normal Weight	Suicide	WCME_1164
+WCME_1177	GTAACGAGGACACCGT	N	USA	2015-S215	Rectum	Female	Black	48	Indoors	Spring	Less48	Less24	24.4	Normal Weight	Accident	WCME_1177
+WCME_1182	ACGTGCGCTCATCGAG	N	USA	2015-S464	Rectum	Female	White	38	Vehicular	Autumn	Less48	Less24	67.7	Super Obese	Accident	WCME_1182
+WCME_1185	ACGTGCGCGACACCGT	N	USA	2015-S492	Rectum	Male	White	34	Indoors	Summer	More48	49-72	19.5	Normal Weight	Natural	WCME_1185
+WCME_120	CTCGACTTACTATCTG	N	USA	2014-S25	Rectum	Female	White	58	Indoors	Spring	Less48	25-48	18.5	Normal Weight	Natural	WCME_120
+WCME_1204	TGCTCGTATAGCGAGT	N	USA	2015-S137	Rectum	Female	Black	42	Indoors	Spring	Less48	25-48	43.3	Morbid Obesity	Natural	WCME_1204
+WCME_1205	TGCTCGTACTGCGTGT	N	USA	2015-S8	Rectum	Female	White	55	Indoors	Spring	Less48	25-48	14	Underweight	Suicide	WCME_1205
+WCME_1220	CGTAGCGATAGCGAGT	N	USA	2015-S31	Rectum	Female	White	61	Hospital	Spring	Less48	25-48	19.8	Normal Weight	Accident	WCME_1220
+WCME_1243	TAGCAGCTCGTTACTA	N	USA	2015-S219	Rectum	Female	White	54	Indoors	Spring	Less48	Less24	32.8	Obese	Natural	WCME_1243
+WCME_1248	TAGCAGCTGATCGTGT	N	USA	2015-S479	Rectum	Female	Black	42	Hospital	Autumn	Less48	Less24	24.5	Normal Weight	Accident	WCME_1248
+WCME_126	CGAAGTATGACACCGT	N	USA	2014-S27	Rectum	Female	White	71	Indoors	Spring	Less48	Less24	unknown	Unknown	Natural	WCME_126
+WCME_1262	GATCTACGACGTCTCG	N	USA	2015-S442	Rectum	Female	White	56	Outdoors	Winter	Less48	Less24	29.7	Overweight	Homicide	WCME_1262
+WCME_1266	GTAACGAGCTACTATA	N	USA	2015-S494	Rectum	Male	White	52	Indoors	Summer	Less48	25-48	33.1	Obese	Natural	WCME_1266
+WCME_1272	GTAACGAGGATCGTGT	N	USA	2015-S559	Rectum	Male	Black	33	Hospital	Winter	Less48	Less24	40.3	Morbid Obesity	Homicide	WCME_1272
+WCME_1274	ACGTGCGCCTACTATA	N	USA	2015-S475	Rectum	Female	Black	62	Vehicular	Winter	Less48	Less24	22.9	Normal Weight	Homicide	WCME_1274
+WCME_1276	ACGTGCGCAGAGTCAC	N	USA	2015-S340	Rectum	Male	White	55	Outdoors	Autumn	Less48	Less24	30.7	Obese	Suicide	WCME_1276
+WCME_1279	ACGTGCGCTCGACGAG	N	USA	2015-S419	Rectum	Female	Black	26	Vehicular	Autumn	Less48	Less24	30.3	Obese	Accident	WCME_1279
+WCME_1280	ACGTGCGCGATCGTGT	N	USA	2015-S443	Rectum	Male	White	46	Indoors	Winter	Less48	Less24	34.7	Obese	Suicide	WCME_1280
+WCME_1285	ATAGTACCTACGAGAC	N	USA	2015-S396	Rectum	Male	Black	27	Outdoors	Autumn	Less48	Less24	21.4	Normal Weight	Homicide	WCME_1285
+WCME_1288	ATAGTACCGATCGTGT	N	USA	2015-S370	Rectum	Female	Black	46	Indoors	Summer	Less48	25-48	25.5	Overweight	Accident	WCME_1288
+WCME_1291	GCGTATACCGTTACTA	N	USA	2015-S582	Rectum	Female	Black	43	Hospital	Winter	Less48	Less24	19	Normal Weight	Homicide	WCME_1291
+WCME_1299	TGCTCGTACGTTACTA	N	USA	2015-S375	Rectum	Female	White	23	Indoors	Summer	Less48	Less24	23	Normal Weight	Accident	WCME_1299
+WCME_1303	TGCTCGTATCGACGAG	N	USA	2015-S493	Rectum	Male	White	59	Indoors	Summer	Less48	25-48	46.7	Morbid Obesity	Natural	WCME_1303
+WCME_1309	AACGCTGATACGAGAC	N	USA	2015-S487	Rectum	Male	White	63	Indoors	Summer	More48	49-72	24.4	Normal Weight	Suicide	WCME_1309
+WCME_131	GCGTATACTCATCGAG	N	USA	2014-S28	Rectum	Female	Black	71	Outdoors	Spring	Less48	Less24	30	Obese	Accident	WCME_131
+WCME_1318	CGTAGCGAACGTCTCG	N	USA	2015-S596	Rectum	Male	Black	26	Outdoors	Winter	Less48	Less24	36	Severe Obesity	Homicide	WCME_1318
+WCME_1319	CGTAGCGATCGACGAG	N	USA	2015-S150	Rectum	Female	White	47	Indoors	Spring	Less48	Less24	30.7	Obese	Natural	WCME_1319
+WCME_160	GACATAGTACTATCTG	N	USA	2014-S36	Rectum	Female	White	40	Indoors	Spring	Less48	Less24	20.9	Normal Weight	Accident	WCME_160
+WCME_172	CGAGAGTTTAGCGAGT	N	USA	2014-S38	Rectum	Male	Black	61	Indoors	Spring	More48	Great73	17.2	Underweight	Natural	WCME_172
+WCME_184	TATAGCGAACTATCTG	N	USA	2014-S40	Rectum	Female	White	44	Indoors	Spring	Less48	Less24	44.1	Morbid Obesity	Natural	WCME_184
+WCME_19	GATCTACGCGTGAGTG	N	USA	2014-S5	Rectum	Male	Black	22	Outdoors	Spring	Less48	25-48	23.2	Normal Weight	Homicide	WCME_19
+WCME_198	GTCTGCTACTGCGTGT	N	USA	2014-S42	Rectum	Male	White	34	Indoors	Spring	Less48	25-48	36.4	Severe Obesity	Accident	WCME_198
+WCME_204	GACATAGTATCGTACG	N	USA	2014-S43	Rectum	Female	White	20	Indoors	Spring	Less48	25-48	25.2	Overweight	Accident	WCME_204
+WCME_211	GACATAGTGACACCGT	N	USA	2014-S44	Rectum	Male	White	53	Indoors	Spring	More48	49-72	35	Severe Obesity	Accident	WCME_211
+WCME_218	ACTACGACTAGCGAGT	N	USA	2014-S45	Rectum	Male	Black	41	Indoors	Spring	Less48	25-48	47.1	Morbid Obesity	Natural	WCME_218
+WCME_239	CGAAGTATGTCAGATA	N	USA	2014-S52	Rectum	Male	Black	62	Indoors	Spring	More48	Great73	23.6	Normal Weight	Natural	WCME_239
+WCME_243	TAGCAGCTTACGAGAC	N	USA	2014-S55	Rectum	Male	White	48	Indoors	Spring	Less48	25-48	29	Overweight	Natural	WCME_243
+WCME_25	ACGTGCGCCTGCGTGT	N	USA	2014-S6	Rectum	Male	White	30	Indoors	Spring	Less48	25-48	32.4	Obese	Suicide	WCME_25
+WCME_252	TCTCTATGACGTCTCG	N	USA	2014-S57	Rectum	Female	Black	50	Indoors	Spring	More48	49-72	24.8	Normal Weight	Accident	WCME_252
+WCME_267	GTAACGAGTACGAGAC	N	USA	2014-S51	Rectum	Male	White	48	Indoors	Spring	Less48	Less24	34	Obese	Natural	WCME_267
+WCME_280	ATAGTACCCTACTATA	N	USA	2014-S56	Rectum	Female	Black	60	Indoors	Spring	Less48	25-48	21.5	Normal Weight	Natural	WCME_280
+WCME_281	ATAGTACCCGTTACTA	N	USA	2014-S46	Rectum	Female	Black	66	Indoors	Spring	Less48	Less24	23.5	Normal Weight	Natural	WCME_281
+WCME_284	ACGTGCGCGTCAGATA	N	USA	2014-S59	Rectum	Female	White	58	Indoors	Spring	Less48	Less24	29.8	Overweight	Suicide	WCME_284
+WCME_289	ACGTGCGCGATCGTGT	N	USA	2014-S60	Rectum	Female	White	50	Indoors	Spring	Less48	Less24	22	Normal Weight	Accident	WCME_289
+WCME_301	TCTCTATGCGTTACTA	N	USA	2014-S71	Rectum	Female	Black	19	Indoors	Summer	Less48	25-48	22.3	Normal Weight	Accident	WCME_301
+WCME_308	AACGCTGATCATCGAG	N	USA	2014-S74	Rectum	Male	Black	53	Outdoors	Summer	Less48	25-48	32.4	Obese	Accident	WCME_308
+WCME_31	GATCTACGTACGAGAC	N	USA	2014-S7	Rectum	Male	White	41	Indoors	Spring	Less48	25-48	27	Overweight	Accident	WCME_31
+WCME_313	TGCTCGTATACGAGAC	N	USA	2014-S75	Rectum	Male	Black	65	Outdoors	Summer	Less48	Less24	22.2	Normal Weight	Homicide	WCME_313
+WCME_320	AACGCTGAACGTCTCG	N	USA	2014-S76	Rectum	Male	Black	68	Outdoors	Summer	Less48	Less24	32	Obese	Natural	WCME_320
+WCME_332	CTCGACTTGACACCGT	N	USA	2014-S79	Rectum	Male	Black	32	Vehicular	Summer	Less48	Less24	28.9	Overweight	Homicide	WCME_332
+WCME_339	TCTCTATGGATCGTGT	N	USA	2014-S80	Rectum	Female	White	50	Indoors	Summer	Less48	25-48	15.8	Underweight	Natural	WCME_339
+WCME_345	GACATAGTTCATCGAG	N	USA	2014-S82	Rectum	Female	White	42	Indoors	Summer	Less48	25-48	15.6	Underweight	Suicide	WCME_345
+WCME_351	ACGCTACTGATCGTGT	N	USA	2014-S83	Rectum	Male	White	24	Outdoors	Summer	Less48	25-48	26.7	Overweight	Accident	WCME_351
+WCME_358	ACTACGACTCATCGAG	N	USA	2014-S84	Rectum	Male	Black	41	Indoors	Summer	Less48	25-48	37.2	Severe Obesity	Accident	WCME_358
+WCME_372	CTCGACTTCGTGAGTG	N	USA	2014-S85	Rectum	Male	Black	24	Outdoors	Summer	Less48	Less24	28.1	Overweight	Homicide	WCME_372
+WCME_379	CGAAGTATACTATCTG	N	USA	2014-S88	Rectum	Male	Black	43	Indoors	Summer	Less48	Less24	25	Overweight	Homicide	WCME_379
+WCME_38	ACGTGCGCGACACCGT	N	USA	2014-S8	Rectum	Female	White	40	Indoors	Spring	Less48	Less24	51.6	Super Obese	Accident	WCME_38
+WCME_385	TGCTCGTAGGATATCT	N	USA	2014-S91	Rectum	Male	White	31	Indoors	Summer	Less48	25-48	28.5	Overweight	Accident	WCME_385
+WCME_392	GCGTATACCTGCGTGT	N	USA	2014-S92	Rectum	Male	White	40	Indoors	Summer	Less48	25-48	39.1	Severe Obesity	Accident	WCME_392
+WCME_399	TAGCAGCTCTGCGTGT	N	USA	2014-S106	Rectum	Female	White	24	Indoors	Summer	Less48	25-48	33.1	Obese	Accident	WCME_399
+WCME_406	ATAGTACCCTGCGTGT	N	USA	2014-S110	Rectum	Female	White	61	Indoors	Summer	Less48	25-48	40.2	Morbid Obesity	Accident	WCME_406
+WCME_412	CTCGACTTAGAGTCAC	N	USA	2014-S111	Rectum	Female	Black	24	Outdoors	Summer	Less48	Less24	unknown	Unknown	Homicide	WCME_412
+WCME_418	CGAAGTATGGATATCT	N	USA	2014-S114	Rectum	Male	Black	61	Indoors	Summer	More48	Great73	19.2	Normal Weight	Accident	WCME_418
+WCME_424	CGAAGTATTACGAGAC	N	USA	2014-S116	Rectum	Female	Black	50	Indoors	Summer	More48	Great73	14.8	Underweight	Natural	WCME_424
+WCME_431	CGAAGTATGATCGTGT	N	USA	2014-S118	Rectum	Female	White	28	Indoors	Summer	Less48	Less24	24	Normal Weight	Accident	WCME_431
+WCME_439	ACGTGCGCCTGCGTGT	N	USA	2014-S119	Rectum	Female	White	42	Indoors	Summer	Less48	25-48	35.3	Severe Obesity	Natural	WCME_439
+WCME_45	TGCTCGTAACTATCTG	N	USA	2014-S9	Rectum	Female	White	49	Outdoors	Spring	Less48	25-48	26.8	Overweight	Homicide	WCME_45
+WCME_453	CTCGACTTGGATATCT	N	USA	2014-S132	Rectum	Male	White	65	Indoors	Summer	Less48	25-48	27.6	Overweight	Accident	WCME_453
+WCME_460	ATAGTACCGACACCGT	N	USA	2014-S140	Rectum	Male	Black	55	Indoors	Summer	Less48	25-48	18.4	Underweight	Natural	WCME_460
+WCME_466	CGAAGTATTCATCGAG	N	USA	2014-S141	Rectum	Female	White	27	Indoors	Summer	Less48	25-48	26	Overweight	Accident	WCME_466
+WCME_473	GATCTACGTCGACGAG	N	USA	2014-S143	Rectum	Male	Black	66	Vehicular	Summer	Less48	25-48	23.5	Normal Weight	Accident	WCME_473
+WCME_480	GTAACGAGAGAGTCAC	N	USA	2014-S146	Rectum	Male	Black	45	Indoors	Summer	Less48	Less24	48.1	Morbid Obesity	Natural	WCME_480
+WCME_487	GCGTATACTCATCGAG	N	USA	2014-S147	Rectum	Male	White	33	Indoors	Summer	Less48	25-48	27.5	Overweight	Accident	WCME_487
+WCME_493	ATAGTACCTAGCGAGT	N	USA	2014-S300	Rectum	Female	Black	30	Indoors	Autumn	Less48	25-48	27.6	Overweight	Homicide	WCME_493
+WCME_499	ACGTGCGCTCGACGAG	N	USA	2014-S347	Rectum	Male	White	40	Indoors	Autumn	More48	Great73	24.7	Normal Weight	Accident	WCME_499
+WCME_506	TAGCAGCTGACACCGT	N	USA	2014-S348	Rectum	Female	Black	57	Indoors	Autumn	Less48	25-48	22.1	Normal Weight	Natural	WCME_506
+WCME_516	ATAGTACCGTCAGATA	N	USA	2015-S1	Rectum	Male	Black	22	Outdoors	Spring	More48	Great73	18.1	Underweight	Homicide	WCME_516
+WCME_52	GATCTACGATCGTACG	N	USA	2014-S10	Rectum	Male	Black	51	Indoors	Spring	Less48	25-48	27.5	Overweight	Natural	WCME_52
+WCME_524	CGAAGTATTAGCGAGT	N	USA	2015-S13	Rectum	Male	White	36	Indoors	Winter	Less48	25-48	20.5	Normal Weight	Accident	WCME_524
+WCME_532	GCGTATACTCGACGAG	N	USA	2015-S14	Rectum	Female	White	27	Indoors	Winter	More48	49-72	20.4	Normal Weight	Accident	WCME_532
+WCME_540	TAGCAGCTCGTGAGTG	N	USA	2015-S15	Rectum	Male	White	49	Indoors	Winter	Less48	Less24	39.6	Severe Obesity	Natural	WCME_540
+WCME_548	AACGCTGAGATCGTGT	N	USA	2015-S17	Rectum	Male	White	20	Indoors	Spring	Less48	Less24	35.9	Severe Obesity	Accident	WCME_548
+WCME_555	CGAAGTATCGTGAGTG	N	USA	2015-S20	Rectum	Male	White	34	Indoors	Spring	Less48	25-48	44.9	Morbid Obesity	Accident	WCME_555
+WCME_563	AACGCTGATCATCGAG	N	USA	2015-S23	Rectum	Male	White	33	Indoors	Spring	Less48	Less24	27.3	Overweight	Accident	WCME_563
+WCME_570	GTAACGAGATCGTACG	N	USA	2015-S25	Rectum	Male	Black	21	Vehicular	Spring	Less48	Less24	29.8	Overweight	Homicide	WCME_570
+WCME_578	CTCGACTTACGTCTCG	N	USA	2015-S27	Rectum	Male	Black	80	Hospital	Spring	Less48	25-48	29.2	Overweight	Natural	WCME_578
+WCME_58	GTAACGAGAGAGTCAC	N	USA	2014-S12	Rectum	Male	White	42	Indoors	Spring	Less48	Less24	41.1	Morbid Obesity	Accident	WCME_58
+WCME_601	GATCTACGCGTGAGTG	N	USA	2015-S34	Rectum	Female	Black	44	Hospital	Spring	More48	49-72	30.6	Obese	Accident	WCME_601
+WCME_615	ATAGTACCGGATATCT	N	USA	2015-S39	Rectum	Female	White	31	Hospital	Spring	Less48	25-48	30.1	Obese	Accident	WCME_615
+WCME_641	TGCTCGTACGTGAGTG	N	USA	2015-S44	Rectum	Male	White	31	Indoors	Spring	Less48	25-48	31	Obese	Accident	WCME_641
+WCME_649	AACGCTGAGACACCGT	N	USA	2015-S48	Rectum	Male	Black	38	Indoors	Spring	Less48	Less24	17.7	Underweight	Accident	WCME_649
+WCME_65	AACGCTGACTGCGTGT	N	USA	2014-S13	Rectum	Male	White	43	Indoors	Spring	Less48	Less24	27.4	Overweight	Natural	WCME_65
+WCME_657	ACGTGCGCTAGCGAGT	N	USA	2015-S49	Rectum	Female	Black	47	Outdoors	Spring	Less48	Less24	31.6	Obese	Accident	WCME_657
+WCME_665	GATCTACGGATCGTGT	N	USA	2015-S51	Rectum	Male	Black	25	Indoors	Spring	Less48	Less24	35.2	Severe Obesity	Homicide	WCME_665
+WCME_672	TGCTCGTAGGATATCT	N	USA	2015-S57	Rectum	Male	Black	49	Indoors	Spring	Less48	25-48	33.8	Obese	Accident	WCME_672
+WCME_680	TAGCAGCTTCATCGAG	N	USA	2015-S58	Rectum	Female	White	49	Indoors	Spring	Less48	25-48	53.7	Super Obese	Accident	WCME_680
+WCME_688	AACGCTGAGGATATCT	N	USA	2015-S63	Rectum	Male	White	42	Indoors	Spring	More48	49-72	29.4	Overweight	Accident	WCME_688
+WCME_696	AACGCTGAACTATCTG	N	USA	2015-S65	Rectum	Male	White	62	Hospital	Spring	Less48	25-48	32.1	Obese	Natural	WCME_696
+WCME_7	TAGCAGCTCTACTATA	N	USA	2014-S2	Rectum	Female	White	42	Indoors	Spring	Less48	25-48	45.8	Morbid Obesity	Natural	WCME_7
+WCME_704	GATCTACGTAGCGAGT	N	USA	2015-S67	Rectum	Male	Black	26	Hospital	Spring	Less48	25-48	27	Overweight	Homicide	WCME_704
+WCME_711	GCGTATACTACGAGAC	N	USA	2015-S70	Rectum	Male	Black	88	Indoors	Spring	Less48	25-48	16.8	Underweight	Natural	WCME_711
+WCME_719	GCGTATACAGAGTCAC	N	USA	2015-S72	Rectum	Male	White	79	Hospital	Winter	Less48	25-48	25.2	Overweight	Accident	WCME_719
+WCME_727	GTAACGAGAGAGTCAC	N	USA	2015-S74	Rectum	Male	Black	34	Hospital	Winter	Less48	25-48	33.5	Obese	Homicide	WCME_727
+WCME_742	CGTAGCGACTGCGTGT	N	USA	2015-S78	Rectum	Female	White	44	Indoors	Spring	More48	49-72	32.1	Obese	Accident	WCME_742
+WCME_750	ACTCACTGGGATATCT	N	USA	2015-S79	Rectum	Male	White	28	Indoors	Spring	Less48	Less24	21.7	Normal Weight	Accident	WCME_750
+WCME_758	ACGCTACTCTGCGTGT	N	USA	2015-S82	Rectum	Male	White	49	Indoors	Spring	More48	Great73	30.8	Obese	Accident	WCME_758
+WCME_773	CGAGAGTTTCATCGAG	N	USA	2015-S88	Rectum	Female	White	24	Indoors	Spring	Less48	Less24	43.9	Morbid Obesity	Accident	WCME_773
+WCME_781	GACATAGTGACACCGT	N	USA	2015-S89	Rectum	Male	Black	70	Outdoors	Spring	Less48	Less24	21.5	Normal Weight	Accident	WCME_781
+WCME_789	GACATAGTCTGCGTGT	N	USA	2015-S92	Rectum	Female	Black	24	Hospital	Spring	Less48	Less24	27	Overweight	Natural	WCME_789
+WCME_797	GACATAGTTACGAGAC	N	USA	2015-S94	Rectum	Male	Black	53	Indoors	Spring	Less48	Less24	27.5	Overweight	Accident	WCME_797
+WCME_805	GTCTATGATCATCGAG	N	USA	2015-S96	Rectum	Male	White	46	Indoors	Spring	Less48	Less24	27.5	Overweight	Accident	WCME_805
+WCME_813	ACTACGACCGTGAGTG	N	USA	2015-S97	Rectum	Female	White	36	Indoors	Spring	Less48	25-48	25.8	Overweight	Accident	WCME_813
+WCME_821	ACGCTACTACGTCTCG	N	USA	2015-S98	Rectum	Male	White	39	Indoors	Spring	Less48	25-48	28.7	Overweight	Accident	WCME_821
+WCME_828	ACGCTACTGGATATCT	N	USA	2015-S99	Rectum	Female	Black	61	Indoors	Spring	More48	Great73	44.3	Morbid Obesity	Natural	WCME_828
+WCME_836	ACGCTACTAGAGTCAC	N	USA	2015-S141	Rectum	Male	Black	30	Indoors	Spring	Less48	25-48	21.6	Normal Weight	Homicide	WCME_836
+WCME_843	ACTACGACGACACCGT	N	USA	2015-S176	Rectum	Male	Black	43	Indoors	Spring	More48	49-72	33.4	Obese	Homicide	WCME_843
+WCME_85	GTAACGAGTCATCGAG	N	USA	2014-S19	Rectum	Male	Black	28	Outdoors	Spring	Less48	Less24	24	Normal Weight	Homicide	WCME_85
+WCME_858	TATAGCGATCGACGAG	N	USA	2015-S193	Rectum	Male	Black	26	Hospital	Spring	Less48	25-48	22.7	Normal Weight	Homicide	WCME_858
+WCME_866	ACTCACTGGATCGTGT	N	USA	2015-S194	Rectum	Male	Black	23	Hospital	Spring	Less48	25-48	30	Obese	Accident	WCME_866
+WCME_874	ACTACGACAGAGTCAC	N	USA	2015-S196	Rectum	Female	Black	27	Vehicular	Spring	Less48	Less24	unknown	Unknown	Accident	WCME_874
+WCME_882	TAGTCTCCCGTTACTA	N	USA	2015-S197	Rectum	Male	Black	20	Hospital	Spring	Less48	25-48	43.9	Morbid Obesity	Homicide	WCME_882
+WCME_890	TATAGCGATAGCGAGT	N	USA	2015-S203	Rectum	Male	Black	24	Vehicular	Spring	Less48	Less24	unknown	Unknown	Homicide	WCME_890
+WCME_898	TGAGTACGTAGCGAGT	N	USA	2015-S204	Rectum	Female	White	35	Indoors	Spring	Less48	Less24	36.6	Severe Obesity	Accident	WCME_898
+WCME_905	TAGTCTCCGATCGTGT	N	USA	2015-S205	Rectum	Female	White	31	Indoors	Spring	Less48	25-48	20.2	Normal Weight	Homicide	WCME_905
+WCME_913	CGAGAGTTCTGCGTGT	N	USA	2015-S209	Rectum	Male	White	20	Indoors	Spring	Less48	Less24	21.9	Normal Weight	Accident	WCME_913
+WCME_921	TAGTCTCCGTCAGATA	N	USA	2015-S213	Rectum	Male	White	36	Indoors	Spring	Less48	Less24	31	Obese	Accident	WCME_921
+WCME_925	TGAGTACGTAGCGAGT	N	USA	2014-S94	Rectum	Female	Black	26	Indoors	Summer	Less48	25-48	35.6	Severe Obesity	Suicide	WCME_925
+WCME_932	ACGCTACTATCGTACG	N	USA	2014-S121	Rectum	Male	White	34	Indoors	Summer	Less48	Less24	26.5	Overweight	Suicide	WCME_932
+WCME_940	CGAGAGTTTAGCGAGT	N	USA	2015-S3	Rectum	Female	White	58	Indoors	Spring	Less48	Less24	26.5	Overweight	Suicide	WCME_940
+WCME_943	CGAGAGTTCGTGAGTG	N	USA	2015-S64	Rectum	Female	White	45	Indoors	Spring	More48	49-72	31.8	Obese	Suicide	WCME_943
+WCME_961	ACGCTACTGACACCGT	N	USA	2015-S595	Rectum	Female	Black	36	Indoors	Winter	Less48	25-48	31.7	Obese	Accident	WCME_961
+WCME_966	ACTCACTGTCATCGAG	N	USA	2015-S587	Rectum	Female	Black	56	Hospital	Winter	Less48	Less24	16.5	Underweight	Natural	WCME_966
+WCME_967	ACTCACTGCGTGAGTG	N	USA	2015-S574	Rectum	Male	White	19	Outdoors	Winter	Less48	Less24	23.1	Normal Weight	Suicide	WCME_967
+WCME_988	TAGTCTCCTAGCGAGT	N	USA	2015-S512	Rectum	Male	White	51	Indoors	Winter	Less48	Less24	24.6	Normal Weight	Natural	WCME_988
