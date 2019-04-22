@@ -26,7 +26,7 @@ regroup_physeq_object <-function(table) {
 physeq_all <- regroup_physeq_object(tax_group)
 
 #import metadata and combine
-metadata=read.csv("insilico/mock3/mock3_meta_merge.csv",header=TRUE)
+metadata=read.csv("mock3_meta_merge.csv",header=TRUE)
 sampdat=sample_data(metadata)
 sample_names(sampdat)=metadata$SampleID
 physeq=merge_phyloseq(physeq_all, sampdat)
@@ -43,7 +43,7 @@ new_df <- new_df %>% group_by(Sample, Pipeline, Kingdom, Phylum, Class, Order, F
 
 #excel sheet from mockrobiota website
 #https://github.com/caporaso-lab/mockrobiota
-taxa_answers <- read.csv('insilico/taxa_answers_nogenus.csv', header=T)
+taxa_answers <- read.csv('taxa_answers_nogenus.csv', header=T)
 taxa_answers <- taxa_answers %>%  mutate(Expected = Expected * seq_num)
 
 mg <- new_df %>% filter(Pipeline == 'MG-RAST')
